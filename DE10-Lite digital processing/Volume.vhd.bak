@@ -1,0 +1,25 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+use IEEE.std_logic_unsigned.all;
+ENTITY Volume is
+PORT(
+	E : IN INTEGER range 0 to 255;
+	SW: In std_logic (6 downto 0);
+	S : out INTEGER range 0 to 255);
+	
+END Volume;
+ARCHITECTURE archi OF Volume IS
+signal tempo : INTEGER range 0 to 255;
+BEGIN
+	PROCESS (E)
+	 BEGIN
+	 IF (SW(0)=1) THEN  tempo<=E+5;END IF;
+	 IF (SW(1)=1) THEN  tempo<=E+10;END IF;
+	 IF (SW(2)=1) THEN  tempo<=E+15;END IF;
+	 IF (SW(3)=1) THEN  tempo<=E+20;END IF;
+	 IF (SW(4)=1) THEN  tempo<=E+25;END IF;
+	 IF (SW(5)=1) THEN  tempo<=E+30;END IF;
+	 IF (SW(6)=1) THEN  tempo<=E+35;END IF;
+	 End process;
+	 
+end archi;

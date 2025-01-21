@@ -1,0 +1,23 @@
+library IEEE;
+use IEE.std_logic_1164.all;
+use IEE.std_logic_unsigned.all;
+ENTITY CTU IS
+port (
+	H : IN STD_LOGIC;
+	S : out STD_LOGIC_VECTOR (7 downto 0)
+	);
+end CTU
+ARCHITECTURE ARCHI OF CTU IS
+BEGIN
+ PROCESS (H)
+	IF (EVENT(H) and H=1) then
+		IF S=255 then
+		   S<=0;
+		else 
+			S<=S+1;
+		END IF;
+	END IF;
+ END PROCESS;
+END ARCHI;
+	
+		
