@@ -1,0 +1,18 @@
+Fitter Status : Successful - Sun Jun 16 15:30:46 2024
+Quartus Prime Version : 23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name : TD5_ELEN4_ex1
+Top-level Entity Name : TOP
+Family : MAX 10
+Device : 10M50DAF484C7G
+Timing Models : Final
+Total logic elements : 324 / 49,760 ( < 1 % )
+    Total combinational functions : 291 / 49,760 ( < 1 % )
+    Dedicated logic registers : 134 / 49,760 ( < 1 % )
+Total registers : 134
+Total pins : 26 / 360 ( 7 % )
+Total virtual pins : 0
+Total memory bits : 512 / 1,677,312 ( < 1 % )
+Embedded Multiplier 9-bit elements : 8 / 288 ( 3 % )
+Total PLLs : 1 / 4 ( 25 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 1 / 2 ( 50 % )

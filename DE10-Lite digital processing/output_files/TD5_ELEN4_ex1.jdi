@@ -1,0 +1,16 @@
+<sld_project_info>
+  <project>
+    <hash md5_digest_80b="3d9123c7a7396f34a1d1"/>
+  </project>
+  <file_info>
+    <file device="10M50DAF484C7G" path="TD5_ELEN4_ex1.sof" usercode="0xFFFFFFFF"/>
+  </file_info>
+  <sld_infos>
+    <sld_info hpath="CAN_1_sae_son:inst2" name="inst2">
+      <assignment_values>
+        <assignment_value text="QSYS_NAME CAN_1_sae_son HAS_SOPCINFO 1 GENERATION_ID 1718544629"/>
+      </assignment_values>
+      <parameters/>
+    </sld_info>
+  </sld_infos>
+</sld_project_info>

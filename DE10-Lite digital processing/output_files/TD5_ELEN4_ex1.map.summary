@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Sun Jun 16 15:30:35 2024
+Quartus Prime Version : 23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name : TD5_ELEN4_ex1
+Top-level Entity Name : TOP
+Family : MAX 10
+Total logic elements : 343
+    Total combinational functions : 290
+    Dedicated logic registers : 141
+Total registers : 141
+Total pins : 26
+Total virtual pins : 0
+Total memory bits : 512
+Embedded Multiplier 9-bit elements : 8
+Total PLLs : 1
+UFM blocks : 0
+ADC blocks : 1
