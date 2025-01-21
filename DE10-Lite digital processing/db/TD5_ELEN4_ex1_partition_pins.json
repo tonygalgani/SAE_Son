@@ -1,0 +1,85 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "MLI",
+					"strict" : false
+				},
+				{
+					"name" : "debug[7]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[6]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[5]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[4]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[3]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[2]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[1]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[0]",
+					"strict" : false
+				},
+				{
+					"name" : "LED_rouge[7]",
+					"strict" : false
+				},
+				{
+					"name" : "LED_rouge[6]",
+					"strict" : false
+				},
+				{
+					"name" : "LED_rouge[5]",
+					"strict" : false
+				},
+				{
+					"name" : "LED_rouge[4]",
+					"strict" : false
+				},
+				{
+					"name" : "LED_rouge[3]",
+					"strict" : false
+				},
+				{
+					"name" : "LED_rouge[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LED_rouge[1]",
+					"strict" : false
+				},
+				{
+					"name" : "LED_rouge[0]",
+					"strict" : false
+				},
+				{
+					"name" : "H50M",
+					"strict" : false
+				},
+				{
+					"name" : "SW[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

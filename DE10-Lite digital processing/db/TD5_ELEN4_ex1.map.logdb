@@ -1,0 +1,5 @@
+v1
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,passe_bas:inst5|lpm_mult:Mult1|mult_qrs:auto_generated|mac_out8,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,passe_bas:inst5|lpm_mult:Mult1|mult_qrs:auto_generated|mac_out4,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,passe_bas:inst5|lpm_mult:Mult1|mult_qrs:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,passe_bas:inst5|lpm_mult:Mult1|mult_qrs:auto_generated|mac_out6,
