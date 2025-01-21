@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Thursday, June 20, 2024
+Project Path:       C:\Users\tony\Documents\SaeSon\Circuit Design\Contionnner.prj
+Design Path:        C:\Users\tony\Documents\SaeSon\Circuit Design\Conditionner.pcb
+Design Title:       
+Created:            5/30/2024 6:43:25 PM
+Last Saved:         6/10/2024 5:05:51 PM
+Editing Time:       864 min
+Units:              mm (precision 2)
+
+
+Checking integrity of Schematic "C:\Users\tony\Documents\SaeSon\Circuit Design\Conditionner.sch" with PCB "C:\Users\tony\Documents\SaeSon\Circuit Design\Conditionner.pcb"
+==========================================================================================================================================================================
+
+
+End Of Report.

@@ -1,0 +1,42 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Thursday, June 20, 2024
+Project Path:       C:\Users\tony\Documents\SaeSon\Circuit Design\Contionnner.prj
+Design Path:        C:\Users\tony\Documents\SaeSon\Circuit Design\Conditionner.pcb
+Design Title:       
+Created:            5/30/2024 6:43:25 PM
+Last Saved:         6/10/2024 5:05:51 PM
+Editing Time:       864 min
+Units:              mm (precision 2)
+
+Ignoring PCB only pad Aop.#8 on net "GND"
+
+Disconnected pin "Aop.4" from net "GND".
+Disconnected pin "ROffset.2" from net "+2V".
+Disconnected pin "R1Diviseur.2" from net "+2V".
+Disconnected pin "R2Diviseur.1" from net "+2V".
+Disconnected pin "C2.1" from net "+2V".
+Disconnected pin "C2.2" from net "GND".
+Disconnected pin "C2.3" from net "GND".
+
+Deleted component reference "C2".
+
+Deleted net "+2V".
+
+Changed component reference "R1Diviseur" from component "2k4", package "DSC" to component "1k", package "DSC".
+Changed component reference "R2Diviseur" from component "2k4", package "DSC" to component "1k", package "DSC".
+
+Added net "+2.5V".
+
+Connected pin "Aop.4" to net "+2.5V".
+Connected pin "ROffset.2" to net "+2.5V".
+Connected pin "R1Diviseur.2" to net "+2.5V".
+Connected pin "R2Diviseur.1" to net "+2.5V".
+
+Net "N0015" changed from net class "Signal" to net class "Power".
+
+Net N0015 renamed to Ve-
+
+
+End Of Report.
